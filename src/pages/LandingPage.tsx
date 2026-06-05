@@ -31,7 +31,7 @@ export function LandingPage() {
           className="mb-12 max-w-xl text-base text-white/70 md:text-lg animate-fade-in-up"
           style={{ animationDelay: "200ms" }}
         >
-          I can resolve urgent tickets across Zendesk, Intercom, Linear
+          Genie resolves urgent tickets across Zendesk, Intercom, Linear
           and more. Just make a wish and consider it done.
         </p>
 
@@ -46,7 +46,7 @@ export function LandingPage() {
             size="xl"
             className="text-white border rounded-full px-10 text-lg inline-flex items-center gap-2"
           >
-            <span>Text Genie</span>
+            <span>Bring your helpdesk</span>
             <img
               src="/brand/logo-bw-transparent.png"
               alt=""
