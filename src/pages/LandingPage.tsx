@@ -44,9 +44,15 @@ export function LandingPage() {
         >
           <LiquidButton
             size="xl"
-            className="text-white border rounded-full px-10 text-lg"
+            className="text-white border rounded-full px-10 text-lg inline-flex items-center gap-2"
           >
-            Text Genie 🧞
+            <span>Text Genie</span>
+            <img
+              src="/brand/logo-bw-transparent.png"
+              alt=""
+              aria-hidden
+              className="h-7 w-7"
+            />
           </LiquidButton>
         </a>
 
