@@ -32,8 +32,8 @@ export function LandingPage() {
           className="mb-12 max-w-xl text-base text-white/70 md:text-lg animate-fade-in-up"
           style={{ animationDelay: "200ms" }}
         >
-          Your wish, granted. AI-powered customer support that actually
-          resolves things.
+          I can resolve urgent tickets across Zendesk, Intercom, Linear
+          and more. Just make a wish and consider it done.
         </p>
 
         <a
