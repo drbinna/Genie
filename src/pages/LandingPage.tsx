@@ -13,13 +13,12 @@ export function LandingPage() {
       />
 
       <main className="relative z-10 flex min-h-screen flex-col items-center justify-center px-6 text-center">
-        <span
-          className="mb-6 text-6xl md:text-7xl animate-fade-in-up"
-          aria-hidden
+        <img
+          src="/brand/logo-bw-transparent.png"
+          alt="Genie"
+          className="mb-6 h-32 w-32 md:h-40 md:w-40 animate-fade-in-up drop-shadow-[0_0_30px_rgba(255,255,255,0.15)]"
           style={{ animationDelay: "0ms" }}
-        >
-          🧞
-        </span>
+        />
 
         <h1
           className="mb-4 text-5xl font-extrabold tracking-tighter text-white sm:text-6xl md:text-[clamp(3rem,10vw,8rem)] animate-fade-in-up"
