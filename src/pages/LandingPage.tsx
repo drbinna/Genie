@@ -37,7 +37,7 @@ export function LandingPage() {
         </p>
 
         <a
-          href="https://t.me/GoblinLabs_bot?start=genie"
+          href="https://t.me/GeniedBot?start=landing"
           target="_blank"
           rel="noreferrer"
           className="animate-fade-in-up"
