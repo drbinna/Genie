@@ -51,16 +51,6 @@ export function LandingPage() {
           </LiquidButton>
         </a>
 
-        <div
-          className="mt-6 flex items-center gap-2 text-xs text-white/50 animate-fade-in-up"
-          style={{ animationDelay: "400ms" }}
-        >
-          <span className="relative flex h-2 w-2 items-center justify-center">
-            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-500 opacity-75" />
-            <span className="relative inline-flex h-2 w-2 rounded-full bg-green-500" />
-          </span>
-          <span>Online · responds in seconds</span>
-        </div>
       </main>
 
       <footer className="absolute bottom-6 left-0 right-0 z-10 text-center text-xs text-white/40">
